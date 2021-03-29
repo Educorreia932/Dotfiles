@@ -115,3 +115,4 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+[ -f "/home/educorreia/.ghcup/env" ] && source "/home/educorreia/.ghcup/env" # ghcup-env
