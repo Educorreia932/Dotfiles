@@ -9,6 +9,8 @@ set ts=4 sts=4 sw=4 expandtab
 call plug#begin('~/.vim/plugged')
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'ap/vim-css-color'
+Plug 'preservim/nerdtree'
 
 call plug#end()
 
