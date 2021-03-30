@@ -27,3 +27,9 @@ let g:coc_snippet_prev = '<S-tab>'
 " Close the preview window when completion is done
 autocmd! CompleteDone * if pumvisible() == 0 | pclose | endif
 
+" NERDTree 
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+

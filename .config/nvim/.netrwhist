@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =7
-let g:netrw_dirhist_7='/home/educorreia/.config/nvim/ccls'
-let g:netrw_dirhist_6='/home/educorreia/.vim/plugged/coc.nvim'
-let g:netrw_dirhist_5='/home/educorreia/.config/nvim'
-let g:netrw_dirhist_4='/usr/share'
-let g:netrw_dirhist_3='/mnt/c/Users/skelo/PycharmProjects/website/main'
-let g:netrw_dirhist_2='/mnt/c/Users/skelo/PycharmProjects/website'
-let g:netrw_dirhist_1='/mnt/c/Users/skelo/PycharmProjects/website/main'
