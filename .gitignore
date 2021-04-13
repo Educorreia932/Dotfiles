@@ -3,4 +3,5 @@
 !README.md
 !.config
 !.bashrc
+!.hushlogin
 .config/nvim/.netrwhist
